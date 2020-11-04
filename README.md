@@ -4,3 +4,8 @@
 
 Olá, sou o Victor, sou apaixonado por tecnologia e por dados, e principalmente o que ambos conseguem fazer juntos, acredito que aqui está a chave da revolução.
 
+- Desenvolvedor Full-stack
+- Administrador de Sistemas
+- Desenvolvedor RPA
+- Data Scientist
+
