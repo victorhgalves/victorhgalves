@@ -4,6 +4,8 @@
 
 Olá, sou o Victor, sou apaixonado por tecnologia e por dados, e principalmente com o que ambos conseguem fazer juntos, acredito que aqui está a chave da revolução.
 
+Sou formado :mortar_board: em Sistemas de Informação e Pós Graduado em Tecnologias Disruptivas
+
 - Desenvolvedor Full-stack 💻 :floppy_disk:
 - Administrador de Sistemas ⚡ :satellite:
 - Desenvolvedor RPA :robot:
