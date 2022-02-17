@@ -10,6 +10,8 @@ Sou formado :mortar_board: em Sistemas de Informação e Pós Graduado em Tecnol
 - Conhecimento avançado em Kubernetes.
 - Metodologias ágeis no coração.
 - SOLID no sangue.
+- Bom entendedor em várias providers Cloud.
+
 
 
 
